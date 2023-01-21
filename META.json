@@ -37,10 +37,10 @@
    "provides" : {
       "Config::Inetd" : {
          "file" : "lib/Config/Inetd.pm",
-         "version" : "0.31_01"
+         "version" : "0.32"
       }
    },
-   "release_status" : "testing",
+   "release_status" : "stable",
    "resources" : {
       "license" : [
          "http://dev.perl.org/licenses/"
@@ -49,6 +49,6 @@
          "url" : "https://github.com/stsc/Config-Inetd"
       }
    },
-   "version" : "0.31_01",
+   "version" : "0.32",
    "x_serialization_backend" : "JSON::PP version 4.04"
 }
